@@ -1,3 +1,5 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "ja"
+
+canonifyurls = true
+baseurl = "https://younippon.github.io/"
+title = "おはようにっぽん"
