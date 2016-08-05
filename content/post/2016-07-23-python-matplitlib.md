@@ -2,7 +2,8 @@
 date = "2016-07-23T10:54:13+09:00"
 draft = false
 title = "python3.xでmatplitlibを入れようとしたらエラー"
-
+categories = [ "Python" ]
+tags = [ "Python" ]
 +++
 
 ## 問題

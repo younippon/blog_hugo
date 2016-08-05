@@ -2,6 +2,8 @@
 date = "2016-07-31T11:43:18+09:00"
 draft = false
 title = "Androidの画像の大きさ"
+categories = [ "Android" ]
+tags = [ "Android", "Android Studio" ]
 
 +++
 
